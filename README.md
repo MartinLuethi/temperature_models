@@ -1,2 +1,6 @@
-# temperature_models
-Python code for simple heat flow models
+# Simple Heat Flow Models
+
+Here are several analytical solutions to the heat flow equation.
+
+$$\frac{dT}{dt}$$
+
